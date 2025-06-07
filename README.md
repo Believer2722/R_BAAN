@@ -25,7 +25,7 @@ Before running `R_BAAN`, install the following tools and make sure they’re in 
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/R_BAAN.git
+git clone https://github.com/Believer2722/R_BAAN.git
 cd R_BAAN
 
 # Run the script (Python 3 required)

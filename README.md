@@ -1,4 +1,6 @@
 # R_BAAN 🛡️  
+![R1](https://github.com/user-attachments/assets/d075c0ba-6589-4c20-829f-366cb0cab429)
+
 > Reconnaissance tool for Bug Bounty Automation
 
 `R_BAAN` is a Python-based automation script that orchestrates the best recon tools — including Subfinder, httpx, GAU, LinkFinder, Arjun, Nuclei, and GoWitness — into one efficient recon workflow for bug bounty hunters.
